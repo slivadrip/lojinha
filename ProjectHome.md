@@ -1,0 +1,1 @@
+o lojinha é um programa simples de controle de estoque e vendas
